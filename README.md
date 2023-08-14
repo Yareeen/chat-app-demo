@@ -9,7 +9,6 @@ Currently, two official plugins are available:
 
 
 
-
  
 ## Kullanılan Teknolojiler 
 - Libraries such as **Bootstrap**, **Tailwind CSS** and **DaisyUI** are used for the style of the application.
